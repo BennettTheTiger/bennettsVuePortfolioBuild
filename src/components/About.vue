@@ -26,7 +26,7 @@ export default {
 
     p{
         font-family: 'Merriweather', serif;
-        padding-right: 30px;
+        padding-right: 20px;
         font-size: .8em;
         padding-left: 70px;
         padding-top: 10px;

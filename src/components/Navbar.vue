@@ -1,6 +1,6 @@
 <template>
     <div class="navContainer">
-        <div class="navItem"><router-link class="path" to="/">Home</router-link></div>
+        <!--<div class="navItem"><router-link class="path" to="/">Home</router-link></div>-->
         <div class="navItem"><router-link class="path" to="/work">Work</router-link></div>
         <div class="navItem"><router-link class="path" to="/about">About</router-link></div>
         <div class="navItem"><router-link class="path" to="/connect">Connect</router-link></div>

@@ -13,7 +13,7 @@ Vue.config.productionTip = false
 Vue.use(VueRouter)
 //routes
 const routes = [
-  {path:'/',component:Home},
+  {path:'/',component:Work},
   {path:'/connect', component:Contact},
   {path:'/work', component:Work},
   {path:'/about', component:About},

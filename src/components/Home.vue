@@ -10,11 +10,13 @@
                 </clipPath>
             </defs>
             </svg> 
+            <!-- Drive Video doesnt work in safari because of certificate so it blocks loading and click event listeners -->
+            <video autoplay loop muted autobuffer playsinline>
+                <source src="/assets/reelOneColor.mp4" type='video/mp4'/>
+            </video>
             
         </div>
-        <video autoplay loop muted autobuffer playsinline>
-            <source src="https://drive.google.com/uc?export=download&id=1Tes1fYxmy1XG62YcoNYpA0ryjuG7C2bd" type='video/mp4'/>
-        </video>
+       
     </div>
 </template>
 <script>
