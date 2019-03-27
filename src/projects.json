@@ -1,0 +1,85 @@
+{
+    "1":{
+        "title":"Little Loop Coaster",
+        "subTitle":"Realtime Automation with javascript",
+        "thumb":"/assets/images/coasterThumb.png",
+        "about":"Little loop was a project that Bennett built from the ground up, literally. Little loop is a roller coaster built from scratch from remaining k'nex parts. Little Loop is a roller coaster that can be controlled from anywhere in the world over a website. It uses Google's firebase database for realtime event data. It's syncing to an old Mac running a Node server with the Johnny Five library to talk to the arduino and interface with the coaster. This project required alot of mechanical and electrical engineering. It was also Bennetts first time working with Firebase and Node.js.",
+        "link":"https://bennettthetiger.github.io/littleLoopCoaster/" ,
+        "youTube":"https://www.youtube.com/watch?v=EtbOQ72wHdU&t=4s",
+        "github": "https://github.com/BennettTheTiger/littleLoopCoaster"
+    },
+    "2":{
+        "title":"Adaptech Experience",
+        "subTitle":"Interactive browser based green screen",
+        "thumb":"/assets/images/adapExp.png",
+        "about":"Adaptech Experience is a browser based green screen application to increase customer engagement at trade shows. The Adaptech jacket uses flaps to change its appearance on the fly. This app used the seriously.js library for chroma keying out a background (green screen) and replacing it with a different forest environments. Customer engagement nearly doubled!",
+        "link":null ,
+        "youTube":null,
+        "github": "https://github.com/BennettTheTiger/AdaptechExperience"
+    },
+    "4":{
+        "title":"Adaptech Video",
+        "subTitle":"Videography & Motion Graphics",
+        "thumb":"/assets/images/adapVid.png",
+        "about":"Adaptech's marketing video was a freelance project that Bennett did to showcase the dynamic jacket. He filmed, edited, and added all motion callouts.",
+        "link":null ,
+        "youTube":"https://www.youtube.com/watch?v=8WgvdUYijBE",
+        "github": null
+
+    },
+    "5":{
+        "title":"PoolBoi",
+        "subTitle":"A full stack water management app",
+        "thumb":"assets/images/poolboi.png",
+        "about":"Poolboi is a full stack web application built on Node and Express with a React front end. Poolboi lets users create an account and log their pool and spa water test results. Poolboi also grades the water quality and shows test trends. Bennett hopes to add IoT devices and a native iOS app in the future.",
+        "link":"https://poolboi.herokuapp.com/" ,
+        "youTube":null,
+        "github": "https://github.com/BennettTheTiger/Poolboi"
+    },
+    "6":{
+        "title":"This Site",
+        "subTitle":"A modular web app in Vue.js",
+        "thumb":"/assets/images/thisSite.png",
+        "about":"This site is Bennett's first time using Vue.js. His last site was built with React so learning Vue was an easy transition. He built this site in a modular fashion so that the projects page is created from a json file. This way future updates and maintenance will be a breeze! Check back soon for new projects.",
+        "link":null ,
+        "youTube":null,
+        "github": null
+    },
+    "7":{
+        "title":"Parks App",
+        "subTitle":"App & Motion Design",
+        "thumb":"assets/images/mParks.jpeg",
+        "about":"This is Bennett's redesign and motion mock for what the Monroe County parks app could look like. The views were mocked in Photoshop and exported as .psd files to be animated in Apple's Motion 5.",
+        "link":null ,
+        "youTube":"https://www.youtube.com/watch?v=sO3d3RkAqNk",
+        "github": null
+    },
+    "8":{
+        "title":"Food Finder",
+        "subTitle":"Consuming web services",
+        "thumb":"assets/images/foodFinder.png",
+        "about":"Food Finder is a simple website that uses the Google Places API to find places to eat near your location or a specified address. It uses Bootstrap to be responsive and is a great option when you can't decide where to grab some grub!",
+        "link":"https://bennettthetiger.github.io/foodFinder/" ,
+        "youTube":null,
+        "github": "https://github.com/BennettTheTiger/foodFinder"
+
+    },
+    "9":{
+        "title":"Distance Danger!",
+        "subTitle":"Arduino distance guessing game",
+        "thumb":"assets/images/distance.jpg",
+        "about":"This distance based game uses the SR04 ultrasonic distance sensor to detect the distance of a players hand above the box. The game creates a random target height up to 100 cm above the box and the user has 5 attempts to come within 10cm. The LED lights will indicate where you are in relation to the target with red meaning way high, or way low. Yellow meaning slightly high or low, and lastly green meaning you found the target height. You can also press the show lives button to see your remaining lives. Learn more by clicking on one of the links below.",
+        "link":"https://bennettigme470.tumblr.com/post/182771604040/project-1-blink" ,
+        "youTube":"https://www.youtube.com/watch?v=z3_NquG4n1w",
+        "github": "https://github.com/BennettTheTiger/ArduinoDistanceGame"
+    },
+    "10":{
+        "title":"O-Whale",
+        "subTitle":"Collaborative AR (In Development)",
+        "thumb":"assets/images/oWhale.png",
+        "about":"This is Bennett's capstone New Media team project. O-Whale is a collaborative augmented reality experience where users must help Walter the whale find his way through hoops that spawn in the room around the users. O-Whale is built in Unity and uses Google's ARCore SDK and Cloud Anchors to sync the real world with the virtual world. O-Whale will make its debut at Imagine RIT in April. ",
+        "link":"https://designed.cad.rit.edu/nmcapstone/project/o-whale" ,
+        "youTube":null,
+        "github": null
+    }
+}
