@@ -2,7 +2,7 @@
     "1":{
         "title":"Little Loop Coaster",
         "subTitle":"Realtime Automation with javascript",
-        "thumb":"/assets/images/coasterThumb.png",
+        "thumb":"/assets/images/coasterThumb.jpg",
         "about":"Little loop was a project that Bennett built from the ground up, literally. Little loop is a roller coaster built from scratch from remaining k'nex parts. Little Loop is a roller coaster that can be controlled from anywhere in the world over a website. It uses Google's firebase database for realtime event data. It's syncing to an old Mac running a Node server with the Johnny Five library to talk to the arduino and interface with the coaster. This project required alot of mechanical and electrical engineering. It was also Bennetts first time working with Firebase and Node.js.",
         "link":"https://bennettthetiger.github.io/littleLoopCoaster/" ,
         "youTube":"https://www.youtube.com/watch?v=EtbOQ72wHdU&t=4s",
@@ -11,7 +11,7 @@
     "2":{
         "title":"Adaptech Experience",
         "subTitle":"Interactive browser based green screen",
-        "thumb":"/assets/images/adapExp.png",
+        "thumb":"/assets/images/adapExp.jpg",
         "about":"Adaptech Experience is a browser based green screen application to increase customer engagement at trade shows. The Adaptech jacket uses flaps to change its appearance on the fly. This app used the seriously.js library for chroma keying out a background (green screen) and replacing it with a different forest environments. Customer engagement nearly doubled!",
         "link":null ,
         "youTube":null,
@@ -76,7 +76,7 @@
     "10":{
         "title":"O-Whale",
         "subTitle":"Collaborative AR (In Development)",
-        "thumb":"assets/images/oWhale.png",
+        "thumb":"assets/images/oWhale.jpg",
         "about":"This is Bennett's capstone New Media team project. O-Whale is a collaborative augmented reality experience where users must help Walter the whale find his way through hoops that spawn in the room around the users. O-Whale is built in Unity and uses Google's ARCore SDK and Cloud Anchors to sync the real world with the virtual world. O-Whale will make its debut at Imagine RIT in April. ",
         "link":"https://designed.cad.rit.edu/nmcapstone/project/o-whale" ,
         "youTube":null,
